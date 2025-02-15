@@ -20,7 +20,7 @@ A API possui três entidades principais:
 
 ### Diagrama de Classe (Mermaid)
 ```mermaid
-tclassDiagram
+classDiagram
     class Whiteboard {
         +Integer id
         +String name
